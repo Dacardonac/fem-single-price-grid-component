@@ -1,0 +1,28 @@
+.whySection {
+  background-color: var(--cyan-light);
+  color: var(--white);
+  padding: 24px 49px 24px 24px;
+  list-style: none;
+
+
+  &__title {
+    font-size: 18px;
+    letter-spacing: -0.22px;
+    font-weight: bold;
+    margin-bottom: 18px;
+  }
+
+    &__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  &__list li {
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: -0.17px;
+    line-height: 20px;
+  }
+
+}

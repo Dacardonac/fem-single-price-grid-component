@@ -1,0 +1,36 @@
+.pricing {
+  color: var(--white);
+  background-color: var(--cyan);
+  padding: 24px;
+  &__title{
+    font-size: 18px;
+    letter-spacing: -0.22px;
+    font-weight: bold;
+    margin-bottom: 18px;
+  }
+
+  &__price {
+    display: flex;
+    align-items: center;
+    gap: 11px;
+    color: hsla(0, 0%, 100%, 0.781);
+    font-size: 1rem;
+    line-height: 26px;
+    letter-spacing: -0.2px;
+    margin-bottom: 4px;
+
+    &--strong {
+      font-size: 32px;
+      font-weight: bold;
+      letter-spacing: -0.4px;
+      color: var(--white);
+    }
+  }
+
+  &__paragraph {
+    margin-bottom: 26px;
+    font-size: 1rem;
+    line-height: 26px;
+    letter-spacing: -0.2px;
+  }
+}
