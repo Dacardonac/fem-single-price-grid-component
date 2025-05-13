@@ -26,4 +26,24 @@
       letter-spacing: -0.17px;
       color: var(--grayish-blue);
     }
+
+    @media (min-width: 1440px) {
+      padding: 40px;
+
+      &__title {
+        font-size: 24px;
+        letter-spacing: -0.3px;
+      }
+
+      &__subtitle {
+        font-size: 18px;
+        letter-spacing: -0.22px;
+      }
+
+      &__paragraph {
+        font-size: 1rem;
+        letter-spacing: -0.2px;
+        line-height: 26px;
+      }
+    }
 }

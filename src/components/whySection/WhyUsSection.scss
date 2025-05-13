@@ -23,6 +23,11 @@
     font-weight: 400;
     letter-spacing: -0.17px;
     line-height: 20px;
+    opacity: 75%;
   }
 
+  @media (min-width: 1440px) {
+      width: 318px;
+      padding: 40px;
+    }
 }

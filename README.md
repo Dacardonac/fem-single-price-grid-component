@@ -38,12 +38,12 @@ This is a solution to the **[Single Price Grid Component challenge on Frontend M
 
 Desktop 🖥️
 
-**![Solution Desktop Screenshot]()**
+**![Solution Desktop Screenshot](/public/screenshots/desktop-screenshot.webp)**
 
 
 Mobile 🤳
 
-**![Solution Mobile Screenshot]()**
+**![Solution Mobile Screenshot](/public/screenshots/mobile-screenshot.webp)**
 
 
 ### Links 📍

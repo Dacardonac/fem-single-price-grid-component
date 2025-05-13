@@ -13,7 +13,6 @@
     display: flex;
     align-items: center;
     gap: 11px;
-    color: hsla(0, 0%, 100%, 0.781);
     font-size: 1rem;
     line-height: 26px;
     letter-spacing: -0.2px;
@@ -25,6 +24,10 @@
       letter-spacing: -0.4px;
       color: var(--white);
     }
+
+    &--opacity {
+      opacity: 50%;
+    }
   }
 
   &__paragraph {
@@ -33,4 +36,9 @@
     line-height: 26px;
     letter-spacing: -0.2px;
   }
+
+  @media (min-width: 1440px) {
+      width: 318px;
+      padding: 40px 40px 39px 40px;
+    }
 }
