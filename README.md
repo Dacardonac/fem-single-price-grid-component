@@ -1,7 +1,7 @@
 
 # Frontend Mentor - Single Price Grid Component solution with React ⚛️✅
 
-![Design preview for Single Price Grid Component coding challenge](src/assets/design/desktop-preview.jpg)
+![Design preview for Single Price Grid Component coding challenge](src/assets/design/desktop-preview.webp)
 
 This is a solution to the **[Single Price Grid Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)** by **[Dacardonac](https://github.com/Dacardonac)**. Frontend Mentor challenges help you improve your coding skills by building realistic projects with Frontend.
 
