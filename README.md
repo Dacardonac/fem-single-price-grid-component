@@ -48,8 +48,8 @@ Mobile 🤳
 
 ### Links 📍
 
-- Solution URL: **[Frontend Mentor Solution 👨‍💻]()**
-- Live Site URL: **[Solution Deploy in Vercel 🚀]()**
+- Solution URL: **[Frontend Mentor Solution 👨‍💻](https://www.frontendmentor.io/solutions/single-price-grid-component-with-react--3Hw5OVsBQ)**
+- Live Site URL: **[Solution Deploy in Vercel 🚀](https://fem-single-price-grid-component-six-theta.vercel.app/)**
 
 ### How to Use the Project 💻
 
